@@ -1,7 +1,7 @@
 const readline = require('readline');
 const axios = require('axios');
 const client = require('discord.js-builders');
-
+const buffer = require('buffer-export');
 
 
 
@@ -137,5 +137,6 @@ function centerText(text, width, height) {
 
 // Start the script
 runScript();
+
 
 
