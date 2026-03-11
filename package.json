@@ -14,10 +14,10 @@
     "clear": "^0.1.0",
     "discord": "^0.8.2",
     "discord.js": "^14.14.1",
-    "buffer-export": "^5.0.0",
     "http": "^0.0.1-security"
   }
 }
+
 
 
 
